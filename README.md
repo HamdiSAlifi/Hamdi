@@ -1,3 +1,4 @@
 # Personal Information
 
->_ <i>generating text. . .</i>
+> <i>generating text. . .</i>
+  <i>please wait patiently</i>
